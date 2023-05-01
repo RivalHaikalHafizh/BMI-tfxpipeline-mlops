@@ -1,0 +1,4 @@
+tfx == 1.11.0
+tensorflow == 2.10.1
+tfx-bsl == 1.11.0
+absl-py == 1.3.0
